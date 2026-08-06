@@ -722,4 +722,4 @@ Contributions are welcome! 🎉 Silakan fork repository ini dan submit pull requ
 
 **MIT License** — Silakan digunakan untuk keperluan belajar dan pengembangan.
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Muhamad Syukron Zakka
